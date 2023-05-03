@@ -1,0 +1,15 @@
+.banner{
+    background-image: url('https://thumbs.dreamstime.com/b/flat-line-design-website-banner-shopping-product-order-add-to-cart-modern-vector-illustration-web-marketing-68581579.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 60vh;
+}
+
+.card img{
+transition: 3s;
+}
+.card:hover img{
+    transform: scale(1.1);
+    transition: 2s;
+}
